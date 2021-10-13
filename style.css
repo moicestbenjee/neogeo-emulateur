@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    border-radius: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(211, 64, 64);
+}
+p {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+}
+h6 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+    width: 1000px;
+    color: rgb(255, 255, 255);
+}
+html {
+    background-image: url("https://images6.alphacoders.com/843/843675.jpg");
+    background-position: center;
+    background-size: 1600px;
+}
+a {
+    color: rgb(9, 255, 0);
+}
